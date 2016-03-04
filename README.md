@@ -14,5 +14,5 @@ HTML attributes
 ---------------
 
 ```html
-<a cc-ihref="/example/url">This link will open in an iOS WebView instead of Safari!</a>
+<a href="/example/url" cc-ihref>This link will open in the current iOS WebView instead of Safari!</a>
 ```
