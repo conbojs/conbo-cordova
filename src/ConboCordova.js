@@ -1,4 +1,4 @@
-conbo('conbo.cordova', function(undefined)
+conbo('conbo.cordova', conbo, function(conbo, undefined)
 {
 	var cc = this;
 	

@@ -1,7 +1,7 @@
 conbo-lib-cordova
 =================
 
-JavaScript library containing utility methods and attributes for use with [Conbo.js 3](https://github.com/mesmotronic/conbo-js/releases) and Apache Cordova.
+JavaScript library containing utility methods and custom attributes for use with [Conbo.js 3](https://github.com/mesmotronic/conbo-js/releases) and Apache Cordova.
 
 JavaScript
 ----------
