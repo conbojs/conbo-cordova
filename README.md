@@ -1,7 +1,7 @@
 Cordova / PhoneGap utilities for ConboJS 4
 ==========================================
 
-JavaScript library containing utility methods and custom attributes for use with [Conbo.js 3](https://github.com/mesmotronic/conbo-js/releases) and Apache Cordova.
+JavaScript library containing utility methods and custom attributes for use with [ConboJS](https://github.com/mesmotronic/conbo/releases) and Apache Cordova.
 
 Getting started
 ---------------
