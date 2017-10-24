@@ -1,15 +1,14 @@
 {
-  "name": "conbo-lib-cordova",
+  "name": "conbo-cordova",
   "version": "0.0.1",
-  "description": "Library for Conbo.js containing utility methods and custom attributes for use with Apache Cordova (PhoneGap)",
-  "repository": "https://github.com/mesmotronic/conbo-lib-cordova.git",
+  "description": "Library for Conbo.js containing utility methods and custom attributes for use with Apache Cordova / PhoneGap",
+  "repository": "https://github.com/mesmotronic/conbo-cordova.git",
   "license": "BSD",
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-jshint": "^2.0.0",
-    "gulp-uglify": "^1.5.1",
-    "jshint": "^2.8.0",
-    "jshint-stylish": "^2.1.0"
-  }
+  "dependencies": {
+    "conbo": "^4.1.13"
+  },
+  "files": [
+    "lib/conbo-cordova.js"
+  ],
+  "readme": "README.md"
 }
